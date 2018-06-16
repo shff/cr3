@@ -1,0 +1,10 @@
+name: cr
+version: 0.1.0
+dependencies:
+  raze:
+    github: samueleaton/raze
+  granite:
+    github: amberframework/granite
+  pg:
+    github: will/crystal-pg
+    version: 0.14.1
